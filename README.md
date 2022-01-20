@@ -2,7 +2,10 @@
 Task is to build a ToDo application with authentication using Django Web Framework 
 
 
-# Installation
+INSTALLATION
+------------
+
+      pip install django
 
 # Usage
 

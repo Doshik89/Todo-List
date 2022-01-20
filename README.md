@@ -45,3 +45,4 @@ Register Page and DB:
 ![Screenshot_11](https://user-images.githubusercontent.com/77663475/150346505-43b78dd6-95cb-4101-bec2-7da8a323b289.png)
 
 # License
+https://choosealicense.com/licenses/mit/

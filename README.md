@@ -26,11 +26,13 @@ Task Page and DB:
 
 
 Example of adding a new task and DB:
+
 ![Screenshot_5](https://user-images.githubusercontent.com/77663475/150346213-730a3f3a-f1a2-42e4-89f4-57fe967f73da.png)
 
 ![Screenshot_6](https://user-images.githubusercontent.com/77663475/150346226-b8efb91f-732b-466e-9154-9e5d7e2344f7.png)
 
 Delete Page and DB:
+
 ![Screenshot_7](https://user-images.githubusercontent.com/77663475/150346368-ce1d32e8-17bc-4fe8-9449-ca548dda7eb0.png)
 
 ![Screenshot_8](https://user-images.githubusercontent.com/77663475/150346383-1fc4b7d2-f9e3-4a05-bb46-4b964ccbd1e5.png)
